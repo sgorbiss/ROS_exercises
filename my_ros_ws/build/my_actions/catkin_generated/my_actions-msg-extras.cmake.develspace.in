@@ -1,0 +1,2 @@
+set(my_actions_MESSAGE_FILES "/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionAction.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionActionGoal.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionActionResult.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionActionFeedback.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionGoal.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionResult.msg;/root/my_ros_ws/devel/share/my_actions/msg/FibonacciActionFeedback.msg")
+set(my_actions_SERVICE_FILES "")

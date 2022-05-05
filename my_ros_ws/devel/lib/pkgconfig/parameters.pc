@@ -1,0 +1,8 @@
+prefix=/root/my_ros_ws/devel
+
+Name: parameters
+Description: Description of parameters
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

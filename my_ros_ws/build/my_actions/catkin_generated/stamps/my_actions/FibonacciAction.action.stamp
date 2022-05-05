@@ -1,0 +1,8 @@
+#goal definition
+int32 order
+---
+#result definition
+int32[32]
+---
+#feedback
+int32[] sequence
